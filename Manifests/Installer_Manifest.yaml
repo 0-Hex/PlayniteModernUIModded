@@ -1,6 +1,6 @@
 AddonId: PlayniteModernUIModded
 Packages:
-  - Version: 2.5.0
+  - Ver1ion: 2.5.1
     RequiredApiVersion: 2.0.0
     ReleaseDate: 2022-08-20
     PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v2.5.1/PlayniteModernUIModded_2_5_1.pthm
@@ -8,3 +8,4 @@ Packages:
       - Inital release
       - Details View Mod 2.3
       - Vertical View Mod 1.0
+      - Both ModernUI & ModernUIModded must be installed for DKG Theme Modifier to work on both
