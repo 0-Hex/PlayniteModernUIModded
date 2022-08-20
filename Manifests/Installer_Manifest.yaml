@@ -1,6 +1,6 @@
 AddonId: PlayniteModernUIModded
 Packages:
-  - Ver1ion: 2.5.1
+  - Version: 2.5.1
     RequiredApiVersion: 2.0.0
     ReleaseDate: 2022-08-20
     PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v2.5.1/PlayniteModernUIModded_2_5_1.pthm
