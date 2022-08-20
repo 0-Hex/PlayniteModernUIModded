@@ -7,3 +7,11 @@ Packages:
     Changelog:
       - Details View Mod 2.3
       - Vertical View Mod 1.0
+  - Version: 2.5.2
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-20
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v2.5.2/PlayniteModernUIModded_2_5_2.pthm
+    Changelog:
+      - Attempting to Fix DKG Theme Modifier Support & Extra Metadata
+      - You can no longer install the theme along side the original Modern UI mod you must pick this one or the original
+      - Restore Original constants file it was previously using my custom one
