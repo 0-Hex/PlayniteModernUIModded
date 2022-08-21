@@ -15,3 +15,12 @@ Packages:
       - Attempting to Fix DKG Theme Modifier Support & Extra Metadata
       - You can no longer install the theme along side the original Modern UI mod you must pick this one or the original
       - Restore Original constants file it was previously using my custom one
+  - Version: 2.6.0
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-21
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v2.6.0/PlayniteModernUIModded_2_6_0.pthm
+    Changelog:
+      - Platform Info added to Vertical View
+      - Genre Info added to Vertical View
+      - Series Info added to Vertical View
+      - New Mod added - Focusable Descriptions in Vertical & Horizontal View. *This is mainly for controller users so they can now scroll longer descriptions, but arrow keys are supported.
