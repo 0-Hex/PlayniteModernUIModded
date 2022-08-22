@@ -51,3 +51,13 @@ Packages:
       - Word Wrapping has been applied to names so longer names do not get cutoff
       - Name Text color has been adjusted to Full White
       - Name Text Size has been adjusted to 16
+  - Version: 3.1.0
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-22
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v3.1.0/PlayniteModernUIModded_3_1_0.pthm
+    Changelog:
+      - Changes have been made to the panel to hopefully prevent icon cutoff from happening in any reasonable cover presets
+      - The semi-transparent overlay has been changed to only appear around names
+      - The Overlay now covers Approximately 1/6 the cover on Short game names and 1/4 the cover on Longer length names This is down from the previous 1/2 on all covers
+      - Padding has been adjusted to the bare minimum to ensure the overlay covers as little of the cover image as possible while maintaining good name placement
+      - Name font size has been increased to 18 for better legibility
