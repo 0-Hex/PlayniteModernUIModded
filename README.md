@@ -3,7 +3,7 @@ Modification of Modern UI by DavidKGriggs https://github.com/davidkgriggs/Playni
 ### For Detailed Info about Original ModernUI features visit:
 https://playnite.link/forum/thread-791-post-8863.html#pid8863
 
-### FOr Detailed Info about Modern UI Modded features visit:
+### For Detailed Info about Modern UI Modded features visit:
 https://playnite.link/forum/thread-1317-post-8897.html
 
 ### Screenshots:
