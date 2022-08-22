@@ -24,3 +24,11 @@ Packages:
       - Genre Info added to Vertical View
       - Series Info added to Vertical View
       - New Mod added Focusable Descriptions in Vertical and Horizontal View this is mainly for controller users so they can now scroll longer descriptions but arrow keys are supported
+  - Version: 2.6.1
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-21
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v2.6.1/PlayniteModernUIModded_2_6_1.pthm
+    Changelog:
+      - Fixed Genres not displaying all added Genres it was previously displaying only 1
+      - Fixed Series not displaying all added Series it was previously displaying only 1
+      - Width and Height adjustments have been made to prevent some descriptions from causing notes to be cut off or not displayed
