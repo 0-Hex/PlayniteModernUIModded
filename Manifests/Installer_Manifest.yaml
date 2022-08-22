@@ -39,3 +39,15 @@ Packages:
     Changelog:
       - Set Tags text size to 15 instead of 16 and add Word Wrapping to allow for Titles to display more info without cutoff
       - Set Features text size to 15 instead of 16 and add Word Wrapping to allow for Titles to display more info without cutoff
+  - Version: 3.0.0
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-22
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v3.0.0/PlayniteModernUIModded_3_0_0.pthm
+    Changelog:
+      - 3.0 brings changes to the currently selected item on the grid these changes were tested on Square and IGDB Presets If you use different values and have icon cutoff open an issue on github or post on the forum and I will adjust the needed values
+      - A Semi-Transparent black underlay has been added to make names and icons easier to actually see it covers about half the image cover
+      - In addition to the library icon already displayed by Modern UI Platform Icon and Game Icon are now displayed as well Order of icons is Platform Library Game
+      - Names and Icons are now centered
+      - Word Wrapping has been applied to names so longer names do not get cutoff
+      - Name Text color has been adjusted to Full White
+      - Name Text Size has been adjusted to 16
