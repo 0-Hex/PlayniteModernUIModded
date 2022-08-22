@@ -7,6 +7,6 @@ https://playnite.link/forum/thread-791-post-8863.html#pid8863
 https://playnite.link/forum/thread-1317-post-8897.html
 
 ### Screenshots:
-![](https://i.postimg.cc/4yNjD5mw/35-17-22-143509.png)
+![](https://i.postimg.cc/Pxdxfnrk/Screenshot-2022-08-22-112913.png)
 ![](https://i.postimg.cc/qRp0XHGN/56-20-22-005627.png)
 ![](https://i.postimg.cc/Fzxs0TFc/Screenshot-2022-08-22-080825.png)
