@@ -61,3 +61,10 @@ Packages:
       - The Overlay now covers Approximately 1/6 the cover on Short game names and 1/4 the cover on Longer length names This is down from the previous 1/2 on all covers
       - Padding has been adjusted to the bare minimum to ensure the overlay covers as little of the cover image as possible while maintaining good name placement
       - Name font size has been increased to 18 for better legibility
+  - Version: 3.1.1
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-22
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v3.1.1/PlayniteModernUIModded_3_1_1.pthm
+    Changelog:
+      - Vertical view game name text size has been adjusted so that extremally long game names do not cause info cutoff
+      - Details view game name text size has been adjusted so that extremally long game names do not overlap with info
