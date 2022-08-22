@@ -68,3 +68,9 @@ Packages:
     Changelog:
       - Vertical view game name text size has been adjusted so that extremally long game names do not cause info cutoff
       - Details view game name text size has been adjusted so that extremally long game names do not overlap with info
+  - Version: 3.1.2
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-22
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v3.1.2/PlayniteModernUIModded_3_1_2.pthm
+    Changelog:
+      - Text wrapping has been added to notes in details view to prevent overlap with extrametadata videos
