@@ -32,3 +32,10 @@ Packages:
       - Fixed Genres not displaying all added Genres it was previously displaying only 1
       - Fixed Series not displaying all added Series it was previously displaying only 1
       - Width and Height adjustments have been made to prevent some descriptions from causing notes to be cut off or not displayed
+  - Version: 2.6.5
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-22
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v2.6.5/PlayniteModernUIModded_2_6_5.pthm
+    Changelog:
+      - Set Tags text size to 15 instead of 16 and add Word Wrapping to allow for Titles to display more info without cutoff
+      - Set Features text size to 15 instead of 16 and add Word Wrapping to allow for Titles to display more info without cutoff
