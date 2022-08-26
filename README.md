@@ -1,4 +1,4 @@
-Modification of Modern UI by DavidKGriggs https://github.com/davidkgriggs/PlayniteModernUI adding all info fields to details view &amp; notes to vertical view.
+Modification of Modern UI v1.4.1 by DavidKGriggs https://github.com/davidkgriggs/PlayniteModernUI adding all info fields to details view &amp; notes to vertical view.
 
 ### For Detailed Info about Original ModernUI features visit:
 https://playnite.link/forum/thread-791-post-8863.html#pid8863
