@@ -86,3 +86,10 @@ Packages:
     PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v3.2.0/PlayniteModernUIModded_3_2_0.pthm
     Changelog:
       - Categories added to vertical view info
+  - Version: 3.3.0
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-08-27
+    PackageUrl: https://github.com/HexSupernatural/PlayniteModernUIModded/releases/download/v3.3.0/PlayniteModernUIModded_3_3_0.pthm
+    Changelog:
+      - Details View Info has been completely reworked to fix the support of SuccessStory & HowLongToBeat 
+      - Future updates may be needed to fine tune placement
