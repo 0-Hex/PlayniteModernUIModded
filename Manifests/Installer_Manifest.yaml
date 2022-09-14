@@ -93,3 +93,12 @@ Packages:
     Changelog:
       - Details View Info has been completely reworked to fix the support of SuccessStory & HowLongToBeat 
       - Future updates may be needed to fine tune placement
+  - Version: 3.5.1
+    RequiredApiVersion: 2.0.0
+    ReleaseDate: 2022-09-14
+    PackageUrl: https://github.com/0-Hex/PlayniteModernUIModded/releases/download/v3.5.1/PlayniteModernUIModded_3_5_1.pthm
+    Changelog:
+      - Unique Theme ID Generated to separate it from Modern UI
+      - DKG has added ModernUIModded to DKG Theme Modifier 2.8, DO NOT INSTALL both Themes at the same time or Modded will not show in Modifier
+      - Modern UI has updated to 1.5.X adding its own additional game details to its details view, various other changes & fixes, Modded will remain based on 1.4.1 for the foreseeable future, while I play around with 1.5.X for my personal use
+      - DKG Theme Modifier Options related to 1.5.X of features of Modern UI will do nothing on modded
