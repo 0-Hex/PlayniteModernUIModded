@@ -1,4 +1,4 @@
-Modification of Modern UI by DavidKGriggs https://github.com/davidkgriggs/PlayniteModernUI adding all info fields to details view & some additonal info to vertical view, also adds Platform & Game Icons to selected game.
+Modification of Modern UI by DavidKGriggs https://github.com/davidkgriggs/PlayniteModernUI adding some additonal info to vertical view while also adding Platform & Game Icons in addtiion to Library icons to the currently selected selected game.
 
 ### For Detailed Info about Original ModernUI features visit:
 https://playnite.link/forum/thread-791-post-8863.html#pid8863
