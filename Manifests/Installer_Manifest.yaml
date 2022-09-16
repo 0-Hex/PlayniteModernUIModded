@@ -102,3 +102,15 @@ Packages:
       - DKG has added ModernUIModded to DKG Theme Modifier 2.8, DO NOT INSTALL both Themes at the same time or Modded will not show in Modifier
       - Modern UI has updated to 1.5.X adding its own additional game details to its details view, various other changes & fixes, Modded will remain based on 1.4.1 for the foreseeable future, while I play around with 1.5.X for my personal use
       - DKG Theme Modifier Options related to 1.5.X of features of Modern UI will do nothing on modded
+  - Version: 3.6.0
+    RequiredApiVersion: 2.2.0
+    ReleaseDate: 2022-09-16
+    PackageUrl: https://github.com/0-Hex/PlayniteModernUIModded/releases/download/v3.6.0/PlayniteModernUIModded_3_6_0.pthm
+    Changelog:
+      - DKG Theme Modifier is currently broken in 2.8.1, DKG plans to fix this in 2.8.2 so be patient and wait for that update to be released, but I wanted to go ahead and get this version out
+      - This releases brings my mods to the 1.5.X line of ModernUI Updates for detailed info check moddeds updated forum post https://playnite.link/forum/editpost.php?pid=8897
+      - Vertical View & Selected Game Mods ported
+      - 1.5.X of Modern brought overhauled details panel adding all the info I previously had modded in so my old mods of details view have been phased out, I have come up with new details view mods instead
+      - Title Names and Title Logos are now aligned centered to the screen 
+      - Platform has been removed from the top panel display it is still displayed in the bottom details view panel and replaced with Series Genres Categories in that order, this is all aligned to the very bottom of the top panel
+      - For the Bottom Panel of details view, I havee reorganized the 1.5.X details panel to better sort based on the order I prefer having things displayed in
