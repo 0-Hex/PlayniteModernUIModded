@@ -125,3 +125,10 @@ Packages:
       - Horizontal View Descriptions are now focusable so controllers and arrow keys can scroll the description
       - Horizontal View Descriptions now spans the near entire length of the screen, this will eliminate the need to scroll descriptions on all but very long ones
       - The Horizontal Description View box height was increased slightly you may need to adjust your DKG settings and fullscreen layouts to compensate
+  - Version: 3.6.5
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-09-28
+    PackageUrl: https://github.com/0-Hex/PlayniteModernUIModded/releases/download/v3.6.5/PlayniteModernUIModded_3_6_5.pthm
+    Changelog:
+      - Sync my mods to Modern UI 1.6.0 files
+      - New mod added for this Update... The border on unselected games has been changed from a white outline to black outline
