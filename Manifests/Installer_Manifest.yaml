@@ -132,3 +132,9 @@ Packages:
     Changelog:
       - Sync my mods to Modern UI 1.6.0 files
       - New mod added for this Update... The border on unselected games has been changed from a white outline to black outline
+  - Version: 3.6.6
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-09-29
+    PackageUrl: https://github.com/0-Hex/PlayniteModernUIModded/releases/download/v3.6.6/PlayniteModernUIModded_3_6_6.pthm
+    Changelog:
+      - Old personal custom icons that I have since stopped using, somehow ended up directly in the themes filter icon folder rather then DKG modifier folder this update just restores that theme folder to modern UI default
