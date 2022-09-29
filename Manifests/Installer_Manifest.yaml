@@ -138,3 +138,9 @@ Packages:
     PackageUrl: https://github.com/0-Hex/PlayniteModernUIModded/releases/download/v3.6.6/PlayniteModernUIModded_3_6_6.pthm
     Changelog:
       - Old personal custom icons that I have since stopped using, somehow ended up directly in the themes filter icon folder rather then DKG modifier folder this update just restores that theme folder to modern UI default
+  - Version: 3.6.7
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-09-29
+    PackageUrl: https://github.com/0-Hex/PlayniteModernUIModded/releases/download/v3.6.7/PlayniteModernUIModded_3_6_7.pthm
+    Changelog:
+      - Sync files to Modern UI 1.6.1 change
